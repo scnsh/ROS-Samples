@@ -1,0 +1,11 @@
+<library path="lib/libcustom_rrbot_hardware_gazebo">
+
+  <class
+    name="custom_rrbot_hardware_gazebo/CustomRRBotHardwareGazebo"
+    type="custom_rrbot_hardware_gazebo::CustomRRBotHardwareGazebo"
+    base_class_type="gazebo_ros_control::RobotHWSim">
+    <description>
+      Custom RRBot simulation interface.
+    </description>
+  </class>
+</library>

@@ -1,0 +1,4 @@
+custom_rrbot_controller:
+  type: custom_effort_controllers/CustomJointEffortController
+  joints:
+    - joint1
